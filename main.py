@@ -28,4 +28,4 @@ async def load_extensions():
 asyncio.run(load_extensions())
 
 
-bot.run("OTk5ODYyNjMyMDY2NTg0Njc5.GKZAJZ.eSwckeL4Mt5MQc0zyYgmo3XRrzkugDifkMy-yM")
+bot.run("OTk5ODYyNjMyMDY2NTg0Njc5.GVOyNL.8WF8yO4SeRVVE0nQW1ij2FR2htwT6k4wxI2ePo")
