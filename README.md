@@ -1,3 +1,3 @@
 # Tempo
 
-Music bot for Baguette Nation
+Discord music bot
